@@ -16,4 +16,4 @@ Verwendetes Zeug:
 - Multithreaded
 - Exportfunktion für weiter verarbeitung (z.b. einpflegen in vorhandene Systeme) 
  
-Proof of Concept, Projekt nicht beendet.
+Proof of Concept, Projekt (noch) nicht beendet.
